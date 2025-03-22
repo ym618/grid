@@ -1,0 +1,15 @@
+isDisplayWatermark
+shouldDisplayWatermark
+
+getWatermarkMessage
+getWatermarkSelector
+watermarkSelector
+
+validateLicense
+getLicenseDetails
+handleTrial
+
+validGridChartsVersionErrorMessage
+validGridChartsVersion
+gridChartVersion
+isValidVersion
